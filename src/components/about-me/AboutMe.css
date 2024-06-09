@@ -1,0 +1,58 @@
+#about-me {
+  width: 100%;
+  min-height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  flex-direction: column;
+}
+
+#about-me ::selection {
+  background-color: #6e6e6e;
+}
+
+#about-me:hover .about-me-slider {
+  left: 0;
+}
+
+#about-me:hover .tech-stack-slider {
+  right: 0;
+}
+
+#about-me:hover .profile-pic {
+  transform: scale(0.8);
+  border: 5px solid #c9c9c9;
+  box-shadow: none;
+}
+
+#about-me:hover .name {
+  transform: scale(0.97);
+}
+
+.sliders-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+/* tablet 1366px ========================================================================== */
+@media (max-width: 1366px) {
+  #about-me {
+    z-index: -1;
+  }
+
+  .sliders-container {
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+  }
+}
+
+/* mobile 768px =============================================================================== */
+@media (max-width: 768px) {
+  .sliders-container {
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+  }
+}

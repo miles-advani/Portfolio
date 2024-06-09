@@ -1,0 +1,22 @@
+{
+  "profile": {
+    "name": "Miles Advani",
+    "jobTitle": "Web Developer"
+  },
+  "aboutMeSlider": {
+    "header": "About me",
+    "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugit distinctio aperiam quas assumenda qui ipsum optio facilis exercitationem esse officia voluptas,Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusantium assumenda necessitatibus repellendus illo!"
+  },
+  "techStackSlider": {
+    "header": "Tech Stack",
+    "techStack": [
+      { "name": "Javascript", "icon": "js" },
+      { "name": "Node", "icon": "node" },
+      { "name": "React", "icon": "react" },
+      { "name": "SCSS", "icon": "sass" },
+      { "name": "CSS", "icon": "css3" },
+      { "name": "HTML", "icon": "html5" },
+      { "name": "Git", "icon": "git" }
+    ]
+  }
+}

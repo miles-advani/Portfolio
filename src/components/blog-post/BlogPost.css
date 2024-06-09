@@ -1,0 +1,42 @@
+.blog-post {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    flex-direction: column;
+    gap: 1rem;
+    padding: 2rem;
+    color: #333;
+    font-size: 1.2em;
+    position: relative;
+  }
+  
+  .blog-post::before {
+    content: "";
+    position: absolute;
+    top: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 70%;
+    border-top: 1px solid #b7b5b5;
+  }
+  
+  .blog-post::after {
+    content: "";
+    position: absolute;
+    bottom: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 70%;
+    border-bottom: 1px solid #d8d8d8;
+  }
+  
+  .blog-post-header {
+    font-size: 1.5rem;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    .blog-post {
+      color: #ffffff;
+    }
+  }

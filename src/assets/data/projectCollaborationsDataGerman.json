@@ -1,0 +1,68 @@
+{
+  "collaboration001": {
+    "image": "/images/project-collaboration-01.png",
+    "title": "To Do List",
+    "status": "Coming Soon",
+    "shortDescription": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.",
+    "techStack": ["React", "Javascript"],
+    "readMoreLink": "",
+    "codeLink": "",
+    "previewLink": "",
+    "githubLinks": [
+      "https://github.com/MilesAdvani",
+      "https://github.com/MilesAdvani"
+    ],
+    "collaborators": ["Miles Advani", "Miles Advani"],
+    "blogPosts": [
+      {
+        "header": "Deutsch",
+        "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi."
+      },
+      {
+        "header": "Deutsch",
+        "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi."
+      },
+      {
+        "header": "Deutsch",
+        "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi."
+      },
+      {
+        "header": "Deutsch",
+        "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi."
+      }
+    ]
+  },
+  "collaboration002": {
+    "image": "/images/project-collaboration-02.png",
+    "title": "Tic Tac Toe",
+    "status": "",
+    "shortDescription": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.",
+    "techStack": ["React", "Javascript"],
+    "readMoreLink": "/blog/collaboration002",
+    "codeLink": "#",
+    "previewLink": "#",
+    "githubLinks": [
+      "https://github.com/MilesAdvani",
+      "https://github.com/MilesAdvani"
+    ],
+    "collaborators": ["Miles Advani", "Miles Advani"],
+    "blogPosts": [
+      {
+        "header": "Deutsch",
+        "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi."
+      },
+      {
+        "header": "Deutsch",
+        "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi."
+      },
+      {
+        "header": "Deutsch",
+        "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi."
+      },
+      {
+        "header": "Deutsch",
+        "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi."
+      }
+    ]
+  }
+}

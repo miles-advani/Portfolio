@@ -1,0 +1,54 @@
+.about-me-content {
+  width: 40%;
+  min-height: 70vh;
+  margin: 0px auto;
+}
+
+.profile-pic {
+  width: 400px;
+  height: 400px;
+  border-radius: 50%;
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  margin: 0px auto;
+  display: block;
+  margin-top: 50px;
+  box-shadow: 0px 15px 30px rgba(0, 0, 0, 0.4);
+  transition: all ease 0.5s;
+}
+
+.name {
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 50px;
+  color: #ffffff;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  transition: all ease 0.5s;
+}
+
+/* tablet 1366px ========================================================================== */
+@media (max-width: 1366px) {
+  .profile-pic {
+    width: 70%;
+    height: 70%;
+    margin: 0 auto;
+    margin-top: 100px;
+  }
+}
+
+/* tablet 1024px ============================================================================ */
+@media (max-width: 1024px) {
+  .about-me-content {
+    width: 50%;
+    min-height: 50vh;
+    margin: 0px auto;
+  }
+}
+
+/* mobile 768px =============================================================================== */
+@media (max-width: 768px) {
+  .about-me-content {
+    width: 60%;
+    min-height: 50vh;
+    margin: 0px auto;
+  }
+}

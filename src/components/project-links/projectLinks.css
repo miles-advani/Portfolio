@@ -1,0 +1,29 @@
+.project-links {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  padding: 0rem 0.5rem 1rem 0.5rem;
+  letter-spacing: 0.5px;
+  font-weight: 400;
+  font-size: 1.2rem;
+  color: #ffffff;
+}
+
+.project-links li .fa-brands,
+.project-links li .fa-solid {
+  margin-left: 1rem;
+}
+
+.project-links li a {
+  color: #ffffff;
+  text-shadow: 2px 2px 4px #ed6d52;
+  padding: 0.5rem 0.5rem;
+  font-weight: bold;
+  text-decoration: none;
+  transition: all ease 0.3s;
+}
+
+.project-links li a:hover {
+  color: #ed6d52;
+  text-shadow: none;
+}

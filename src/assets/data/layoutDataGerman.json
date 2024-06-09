@@ -1,0 +1,26 @@
+{
+  "menuLinks": {
+    "home": "Startseite",
+    "about": "Über mich",
+    "projects": "Projekte",
+    "contact": "Kontakt"
+  },
+  "copyright": {
+    "year": "2024, ",
+    "builtBy": "Entworfen und entwickelt von",
+    "name": "Miles Advani"
+  },
+
+  "portfolioCode": {
+    "name": "Code",
+    "icon": "github",
+    "url": "https://github.com/miles-advani/Portfolio"
+  },
+
+  "backToTop": "Zum Seitenanfang",
+  
+  "projectHeaders": {
+    "myProjects": "Meine Projekte",
+    "collaborations": "Kollaborationen"
+  }
+}

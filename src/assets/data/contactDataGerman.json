@@ -1,0 +1,26 @@
+{
+  "header": "Kontakt",
+
+  "emailLink": {
+    "id": 4,
+    "name": "Email",
+    "icon": "envelope",
+    "url": "mailto:your-milesadvani@gmail.com",
+    "title": "miles.advani@gmail.com"
+  },
+
+  "socialLinks": [
+    {
+      "id": 1,
+      "name": "Linkedin ",
+      "icon": "linkedin",
+      "url": "https://www.linkedin.com/in/miles-advani"
+    },
+    {
+      "id": 2,
+      "name": "Git-Hub ",
+      "icon": "github",
+      "url": "https://github.com/miles-advani"
+    }
+  ]
+}
