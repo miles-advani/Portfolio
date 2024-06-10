@@ -61,7 +61,7 @@
     "image": "/images/project-03.png",
     "title": "Terminal Toolbox",
     "status": "",
-    "shortDescription": "A collection of utilities designed for terminal enthusiasts. It integrates functionalities like a to-do list, weather forecast, calculator, clock, and more, all accessible directly from your terminal. This project streamlines your workflow by bringing essential tools to your command line.",
+    "shortDescription": "A collection of utilities designed for terminal enthusiasts. It integrates functionalities like a to-do list, weather forecast, calculator, clock, and more, all accessible directly from your terminal.",
     "techStack": ["Javascript"],
     "readMoreLink": "/blog/project003",
     "codeLink": "#",

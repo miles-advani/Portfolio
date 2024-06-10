@@ -3,7 +3,7 @@
     "image": "/images/project-01.png",
     "title": "Holiday Hideouts",
     "status": "Coming Soon",
-    "shortDescription": "Holiday Hideouts is a comprehensive full-stack web application that provides a seamless platform for users to discover and book holiday homes. It offers an intuitive search interface and a secure booking system.",
+    "shortDescription": "A comprehensive full-stack web application that provides a seamless platform for users to discover and book holiday homes. It offers an intuitive search interface and a secure booking system.",
     "techStack": ["React", "Express", "MongoDB"],
     "readMoreLink": "",
     "codeLink": "",
@@ -33,11 +33,11 @@
     "image": "/images/project-collaboration-02.png",
     "title": "Tic Tac Toe",
     "status": "",
-    "shortDescription": "This project is a simple implementation of Tic Tac Toe. Two players take turns marking spaces in a 3x3 grid, aiming to place three marks in a row horizontally, vertically, or diagonally. The game's status (win, lose, or draw) updates dynamically as the game progresses.",
+    "shortDescription": "A simple implementation of Tic Tac Toe. Two players take turns marking spaces in a 3x3 grid, aiming to place three marks in a row horizontally, vertically, or diagonally. The game's status updates dynamically as the game progresses.",
     "techStack": ["Javascript", "CSS", "HTML"],
     "readMoreLink": "/blog/collaboration002",
     "codeLink": "#",
-    "previewLink": "#",
+    "previewLink": "",
     "githubLinks": [
       "https://github.com/MilesAdvani",
       "https://github.com/MilesAdvani"

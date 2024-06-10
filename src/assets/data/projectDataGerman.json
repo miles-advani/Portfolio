@@ -59,7 +59,7 @@
     "image": "/images/project-03.png",
     "title": "Terminal Toolbox",
     "status": "",
-    "shortDescription": "Eine Sammlung von Tools für Terminal-Enthusiasten. Integriert Funktionen wie To-Do-Listen, Wettervorhersagen, Taschenrechner, Uhr und mehr - alles direkt aus dem Terminal zugänglich. Optimiert Ihren Workflow, indem es wichtige Tools in Ihre Befehlszeile bringt.",
+    "shortDescription": "Eine Sammlung von Tools für Terminal-Enthusiasten. Integriert Funktionen wie To-Do-Listen, Wettervorhersagen, Taschenrechner, Uhr und mehr - alles direkt aus dem Terminal zugänglich.",
     "techStack": ["Javascript"],
     "readMoreLink": "/blog/project003",
     "codeLink": "#",
