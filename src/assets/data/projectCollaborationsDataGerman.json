@@ -1,10 +1,10 @@
 {
   "collaboration001": {
-    "image": "/images/project-collaboration-01.png",
-    "title": "To Do List",
+    "image": "/images/project-01.png",
+    "title": "Holiday Hideouts",
     "status": "Coming Soon",
-    "shortDescription": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.",
-    "techStack": ["React", "Javascript"],
+    "shortDescription": "Holiday Hideouts ist eine umfassende Full-Stack-Webanwendung, die eine benutzerfreundliche Plattform für die Entdeckung und Buchung von Ferienhäusern bietet. Sie verfügt über eine intuitive Suchoberfläche und ein sicheres Buchungssystem.",
+    "techStack": ["React", "Express", "MongoDB"],
     "readMoreLink": "",
     "codeLink": "",
     "previewLink": "",
@@ -36,7 +36,7 @@
     "image": "/images/project-collaboration-02.png",
     "title": "Tic Tac Toe",
     "status": "",
-    "shortDescription": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.",
+    "shortDescription": "Dieses Projekt ist eine einfache Umsetzung von Tic Tac Toe. Zwei Spieler wechseln sich ab, um Felder in einem 3x3-Raster zu markieren, mit dem Ziel, drei Markierungen in einer Reihe horizontal, vertikal oder diagonal zu platzieren. Der Spielstatus (Sieg, Niederlage oder Unentschieden) wird dynamisch aktualisiert.",
     "techStack": ["React", "Javascript"],
     "readMoreLink": "/blog/collaboration002",
     "codeLink": "#",

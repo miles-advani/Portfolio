@@ -1,12 +1,12 @@
 {
   "project-001": {
-    "image": "/images/project-01.png",
-    "title": "Holiday Hideouts",
-    "status": "Coming Soon",
-    "shortDescription": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.",
+    "image": "/images/project-02.png",
+    "title": "Form Builder",
+    "status": "In Progress",
+    "shortDescription": "Form Builder is an intuitive tool that allows you to create custom forms with ease. Simply select your desired form elements, arrange them in your preferred order, and generate the corresponding code with a single click.",
     "techStack": ["React", "Javascript"],
     "readMoreLink": "",
-    "codeLink": "",
+    "codeLink": "#",
     "previewLink": "",
     "blogPosts": [
       {
@@ -30,12 +30,12 @@
 
   "project002": {
     "image": "/images/project-02.png",
-    "title": "Form Builder",
-    "status": "In Progress",
-    "shortDescription": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.",
+    "title": "To Do App",
+    "status": "Coming Soon",
+    "shortDescription": "To Do App is a simple yet powerful task management tool that helps you stay organized. Create tasks, set deadlines, and track your progress with ease.",
     "techStack": ["React", "Javascript"],
     "readMoreLink": "",
-    "codeLink": "#",
+    "codeLink": "",
     "previewLink": "",
     "blogPosts": [
       {
@@ -61,7 +61,7 @@
     "image": "/images/project-03.png",
     "title": "Terminal Toolbox",
     "status": "",
-    "shortDescription": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.",
+    "shortDescription": "A collection of utilities designed for terminal enthusiasts. It integrates functionalities like a to-do list, weather forecast, calculator, clock, and more, all accessible directly from your terminal. This project streamlines your workflow by bringing essential tools to your command line.",
     "techStack": ["Javascript"],
     "readMoreLink": "/blog/project003",
     "codeLink": "#",

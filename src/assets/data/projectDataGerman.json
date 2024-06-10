@@ -1,12 +1,12 @@
 {
   "project001": {
-    "image": "/images/project-01.png",
-    "title": "Holiday Hideouts",
-    "status": "Coming Soon",
-    "shortDescription": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.",
+    "image": "/images/project-02.png",
+    "title": "Form Builder",
+    "status": "In Progress",
+    "shortDescription": "Form Builder ist ein intuitives Tool, mit dem Sie benutzerdefinierte Formulare mühelos erstellen können. Wählen Sie einfach Ihre gewünschten Formularelemente aus, ordnen Sie sie in Ihrer bevorzugten Reihenfolge an und generieren Sie den entsprechenden Code mit nur einem Klick.",
     "techStack": ["React", "Javascript"],
     "readMoreLink": "",
-    "codeLink": "",
+    "codeLink": "#",
     "previewLink": "",
     "blogPosts": [
       {
@@ -29,12 +29,12 @@
   },
   "project002": {
     "image": "/images/project-02.png",
-    "title": "Form Builder",
-    "status": "In Progress",
-    "shortDescription": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.",
+    "title": "To Do App",
+    "status": "Coming Soon",
+    "shortDescription": "To Do App ist ein einfaches, aber leistungsstarkes Aufgabenverwaltungstool, das Ihnen hilft, organisiert zu bleiben. Erstellen Sie Aufgaben, setzen Sie Fristen und verfolgen Sie Ihren Fortschritt mühelos.",
     "techStack": ["React", "Javascript"],
     "readMoreLink": "",
-    "codeLink": "#",
+    "codeLink": "",
     "previewLink": "",
     "blogPosts": [
       {
@@ -59,7 +59,7 @@
     "image": "/images/project-03.png",
     "title": "Terminal Toolbox",
     "status": "",
-    "shortDescription": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.",
+    "shortDescription": "Eine Sammlung von Tools für Terminal-Enthusiasten. Integriert Funktionen wie To-Do-Listen, Wettervorhersagen, Taschenrechner, Uhr und mehr - alles direkt aus dem Terminal zugänglich. Optimiert Ihren Workflow, indem es wichtige Tools in Ihre Befehlszeile bringt.",
     "techStack": ["Javascript"],
     "readMoreLink": "/blog/project003",
     "codeLink": "#",
