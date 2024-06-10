@@ -1,12 +1,12 @@
 {
   "project-001": {
-    "image": "/images/project-02.png",
+    "image": "/images/project-01.png",
     "title": "Form Builder",
     "status": "In Progress",
     "shortDescription": "Form Builder is an intuitive tool that allows you to create custom forms with ease. Simply select your desired form elements, arrange them in your preferred order, and generate the corresponding code with a single click.",
     "techStack": ["React", "Javascript"],
     "readMoreLink": "",
-    "codeLink": "#",
+    "codeLink": "https://github.com/miles-advani/Form-Builder",
     "previewLink": "",
     "blogPosts": [
       {
@@ -64,7 +64,7 @@
     "shortDescription": "A collection of utilities designed for terminal enthusiasts. It integrates functionalities like a to-do list, weather forecast, calculator, clock, and more, all accessible directly from your terminal.",
     "techStack": ["Javascript"],
     "readMoreLink": "/blog/project003",
-    "codeLink": "#",
+    "codeLink": "https://github.com/miles-advani/Terminal-Toolbox",
     "previewLink": "",
     "blogPosts": [
       {
