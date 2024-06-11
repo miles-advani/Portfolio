@@ -23,16 +23,17 @@
 
 .about-me-slider-header {
   color: #ffffff;
-  font-size: 2rem;
+  font-size: 1.5rem;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   padding: 1rem;
 }
 
 .about-me-slider-content {
   color: #ffffff;
-  font-size: 1.5rem;
+  font-size: 1rem;
   text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   padding: 1rem;
+  text-align: left;
 }
 
 .about-me-slider-content a {

@@ -5,7 +5,9 @@
   },
   "aboutMeSlider": {
     "header": "Über mich",
-    "content": "Als Junior Fullstack Webentwickler, der derzeit an einem einjährigen Kurs teilnimmt, habe ich eine solide Grundlage im MERN-Stack. Ich bin detailorientiert und organisiert und freue mich darauf, zu innovativen Projekten beizutragen, während ich weiterhin im Bereich der Webentwicklung lerne und wachse."
+    "paragraphOne": "Hallo! Ich bin ein leidenschaftlicher Fullstack-Webentwickler aus Berlin mit einem großen Interesse an innovativen und dynamischen Webanwendungen. Ich habe mich auf den MERN-Stack spezialisiert, um skalierbare und effiziente Projekte zu entwickeln.",
+    "paragraphTwo": "Mein Ansatz basiert auf kontinuierlichem Lernen und Verbesserung. Ich löse gerne komplexe Probleme und setze Ideen mit sauberem, wartbarem Code um.",
+    "paragraphThree": "Kontaktieren Sie mich gerne, wenn Sie zusammenarbeiten oder über Technik plaudern möchten!"
   },
   "techStackSlider": {
     "header": "Tech Stack",

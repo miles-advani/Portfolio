@@ -5,7 +5,9 @@
   },
   "aboutMeSlider": {
     "header": "About me",
-    "content": "As a junior Fullstack Web Developer currently enrolled in a one-year course, I have a solid foundation in the MERN stack. I am detail-oriented and organized, eager to contribute to innovative projects while continuing to learn and grow in the field of web development."
+    "paragraphOne": "Hello! I'm a passionate fullstack web developer based in Berlin, Germany, with a strong interest in creating innovative and dynamic web applications. My journey in web development has led me to specialize in the MERN stack, which I use to build scalable and efficient projects.",
+    "paragraphTwo": "My approach to development is rooted in a commitment to continuous learning and improvement. I enjoy tackling complex problems and turning ideas into reality through clean, maintainable code.",
+    "paragraphThree": "Feel free to reach out if you'd like to collaborate or just chat about tech!"
   },
   "techStackSlider": {
     "header": "Tech Stack",
