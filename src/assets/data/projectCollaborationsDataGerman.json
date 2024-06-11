@@ -37,7 +37,7 @@
     "title": "Tic Tac Toe",
     "status": "",
     "shortDescription": "Eine einfache Umsetzung von Tic Tac Toe. Zwei Spieler wechseln sich ab, um Felder in einem 3x3-Raster zu markieren, mit dem Ziel, drei Markierungen in einer Reihe horizontal, vertikal oder diagonal zu platzieren. Der Spielstatus wird dynamisch aktualisiert.",
-    "techStack": ["React", "Javascript"],
+    "techStack": ["Javascript", "HTML", "CSS"],
     "readMoreLink": "/blog/collaboration002",
     "codeLink": "https://github.com/miles-advani/Tic-Tac-Toe-Game",
     "previewLink": "",
