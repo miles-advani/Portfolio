@@ -10,7 +10,7 @@ export default function MainMenu() {
   return (
     <ul className="menu">
      <li>
-        <Link to="/">{menuLinks.home}</Link>
+        <Link to="/#top">{menuLinks.home}</Link>
       </li>
       <li>
         <Link smooth to="/#about-me">

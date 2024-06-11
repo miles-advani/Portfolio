@@ -12,19 +12,19 @@
     "collaborators": ["Miles Advani", "Miles Advani"],
     "blogPosts": [
       {
-        "header": "English",
+        "header": "Description",
         "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi."
       },
       {
-        "header": "English",
+        "header": "Goals",
         "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi."
       },
       {
-        "header": "English",
+        "header": "Problems Faced",
         "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi."
       },
       {
-        "header": "English",
+        "header": "Future Plans",
         "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi."
       }
     ]
@@ -39,26 +39,25 @@
     "codeLink": "https://github.com/miles-advani/Tic-Tac-Toe-Game",
     "previewLink": "",
     "githubLinks": [
-      "https://github.com/MilesAdvani",
       "https://github.com/MilesAdvani"
     ],
-    "collaborators": ["Miles Advani", "Miles Advani"],
+    "collaborators": ["Miles Advani"],
     "blogPosts": [
       {
-        "header": "English",
+        "header": "Description",
         "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi."
       },
       {
-        "header": "English",
+        "header": "Goals",
         "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi."
       },
       {
-        "header": "English",
-        "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi."
+        "header": "",
+        "content": ""
       },
       {
-        "header": "English",
-        "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi."
+        "header": "",
+        "content": ""
       }
     ]
   }
