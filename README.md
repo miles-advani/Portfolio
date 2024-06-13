@@ -111,6 +111,8 @@ npm run dev
 - Uses the FontAwesome key through the .env file.
 - [.env-example](https://github.com/miles-advani/Portfolio/blob/main/.env-example)
 
+### [FavIcon](
+
 ### Pages / Components Structure:
 
 #### [Portfolio](https://github.com/MilesAdvani/Portfolio/tree/main/src/pages/portfolio)
@@ -119,17 +121,20 @@ npm run dev
 
   - [Header](https://github.com/MilesAdvani/Portfolio/tree/main/src/components/header)
     - [Logo](https://github.com/MilesAdvani/Portfolio/tree/main/src/components/logo)
+      - [LogoSVG](https://github.com/miles-advani/Portfolio/blob/main/src/assets/logo.svg)
     - [MainMenu](https://github.com/MilesAdvani/Portfolio/tree/main/src/components/main-menu)
     - [LanguageButton](https://github.com/MilesAdvani/Portfolio/tree/main/src/components/language-button)
   - [Footer](https://github.com/MilesAdvani/Portfolio/tree/main/src/components/footer)
 
 - [AboutMe](https://github.com/MilesAdvani/Portfolio/tree/main/src/components/about-me)
   - [Profile](https://github.com/MilesAdvani/Portfolio/tree/main/src/components/profile)
+    - [ProfileImage](https://github.com/miles-advani/Portfolio/blob/main/src/assets/images/profile-picture.png)
   - [AboutMeSlider](https://github.com/MilesAdvani/Portfolio/tree/main/src/components/about-me-slider)
   - [TechStackSlider](https://github.com/MilesAdvani/Portfolio/tree/main/src/components/tech-stack-slider)
 - [Projects](https://github.com/MilesAdvani/Portfolio/tree/main/src/components/projects)
 
   - [ProjectCard](https://github.com/MilesAdvani/Portfolio/tree/main/src/components/project-card)
+    - [ProjectImages](https://github.com/miles-advani/Portfolio/tree/main/public/images)
     - [ProjectLinks](https://github.com/MilesAdvani/Portfolio/tree/main/src/components/project-links)
 
 - [Contact](https://github.com/MilesAdvani/Portfolio/tree/main/src/components/contact)
@@ -140,6 +145,7 @@ npm run dev
 
   - [Header](https://github.com/MilesAdvani/Portfolio/tree/main/src/components/header)
     - [Logo](https://github.com/MilesAdvani/Portfolio/tree/main/src/components/logo)
+      - [LogoSVG](https://github.com/miles-advani/Portfolio/blob/main/src/assets/logo.svg)
     - [MainMenu](https://github.com/MilesAdvani/Portfolio/tree/main/src/components/main-menu)
     - [LanguageButton](https://github.com/MilesAdvani/Portfolio/tree/main/src/components/language-button)
   - [Footer](https://github.com/MilesAdvani/Portfolio/tree/main/src/components/footer)
@@ -153,6 +159,7 @@ npm run dev
 - [Layout](https://github.com/MilesAdvani/Portfolio/tree/main/src/components/layout)
   - [Header](https://github.com/MilesAdvani/Portfolio/tree/main/src/components/header)
     - [Logo](https://github.com/MilesAdvani/Portfolio/tree/main/src/components/logo)
+      - [LogoSVG](https://github.com/miles-advani/Portfolio/blob/main/src/assets/logo.svg)
     - [MainMenu](https://github.com/MilesAdvani/Portfolio/tree/main/src/components/main-menu)
     - [LanguageButton](https://github.com/MilesAdvani/Portfolio/tree/main/src/components/language-button)
   - [Footer](https://github.com/MilesAdvani/Portfolio/tree/main/src/components/footer)
