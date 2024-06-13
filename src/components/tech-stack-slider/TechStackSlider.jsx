@@ -7,7 +7,11 @@ export default function TechStackSlider({ header, techStack }) {
       <ul className="tech-stack">
         {techStack.map((tech) => (
           <li key={tech.name}>
-            <i className={`fa-brands fa-${tech.icon}`}></i>
+            {tech.type === 'fa' ? (
+              <i className={`fa-brands fa-${tech.icon}`}></i>
+            ) : (
+              <img src={tech.icon} alt={tech.name} />
+            )}
             {tech.name}
           </li>
         ))}

@@ -12,13 +12,22 @@
   "techStackSlider": {
     "header": "Tech Stack",
     "techStack": [
-      { "name": "Javascript", "icon": "js" },
-      { "name": "Node", "icon": "node" },
-      { "name": "React", "icon": "react" },
-      { "name": "CSS", "icon": "css3" },
-      { "name": "SCSS", "icon": "sass" },
-      { "name": "HTML", "icon": "html5" },
-      { "name": "Git", "icon": "git" }
+      { "name": "Javascript", "icon": "js", "type": "fa" },
+      { "name": "Typescript", "icon": "/icons/typescript.svg", "type": "svg" },
+      { "name": "Node", "icon": "node", "type": "fa" },
+      { "name": "Express", "icon": "/icons/express.svg", "type": "svg" },
+      { "name": "MongoDB", "icon": "/icons/mongodb.svg", "type": "svg" },
+      { "name": "React", "icon": "react", "type": "fa" },
+      { "name": "Next.js", "icon": "/icons/nextdotjs.svg", "type": "svg" },
+      { "name": "CSS", "icon": "css3", "type": "fa" },
+      { "name": "SCSS", "icon": "sass", "type": "fa" },
+      { "name": "HTML", "icon": "html5", "type": "fa" },
+      { "name": "Git", "icon": "git", "type": "fa" },
+      {
+        "name": "VS Code",
+        "icon": "/icons/visualstudiocode.svg",
+        "type": "svg"
+      }
     ]
   }
 }
