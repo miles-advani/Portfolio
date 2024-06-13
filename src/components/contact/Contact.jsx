@@ -10,6 +10,17 @@ export default function Contact() {
     <section id="contact">
       <h2 className="contact-header">{contactData.header}</h2>
 
+      {contactData.emailLink && (
+        <a
+          className="contact-links"
+          href={contactData.emailLink.url}
+          title={contactData.emailLink.title}
+        >
+          {contactData.emailLink.name}{" "}
+          <i className={`far fa-${contactData.emailLink.icon}`}></i>
+        </a>
+      )}
+
       {contactData.socialLinks.map((link) => (
         <a
           className="contact-links"
@@ -23,17 +34,6 @@ export default function Contact() {
           <i className={`fa-brands fa-${link.icon}`}></i>
         </a>
       ))}
-
-      {contactData.emailLink && (
-        <a
-          className="contact-links"
-          href={contactData.emailLink.url}
-          title={contactData.emailLink.title}
-        >
-          {contactData.emailLink.name}{" "}
-          <i className={`far fa-${contactData.emailLink.icon}`}></i>
-        </a>
-      )}
     </section>
   );
 }
