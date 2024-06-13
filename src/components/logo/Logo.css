@@ -1,4 +1,4 @@
-.logo span {
+/* .logo span {
     color: #c9c9c9;
   }
   
@@ -9,4 +9,14 @@
   }
   .logo :hover {
     text-shadow: 0 0 50px #e6e6e6;
-  }
+  } */
+
+.logo img {
+  /* width: 90px;  */
+  /* height: auto;  */
+  transition: filter 0.3s ease;
+}
+
+.logo img:hover {
+  filter: brightness(1.2) drop-shadow(0 0 10px #e6e6e6);
+}
