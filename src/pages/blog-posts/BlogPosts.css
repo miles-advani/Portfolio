@@ -33,7 +33,9 @@
   left: 50%;
   transform: translateX(-50%);
   width: 70%;
-  border-bottom: 1px solid #c4c3c3;
+  /* border-bottom: 1px solid #c4c3c3; */
+  height: 1px;
+  background: linear-gradient(to right, grey, lightgrey, grey);
 }
 
 .project-links-container {
