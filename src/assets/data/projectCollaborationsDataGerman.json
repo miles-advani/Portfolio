@@ -1,11 +1,11 @@
 {
-  "collaboration001": {
+  "holiday-hideouts": {
     "image": "/images/in-production.png",
     "title": "Holiday Hideouts",
     "status": "Coming Soon",
     "shortDescription": "Eine umfassende Full-Stack-Webanwendung, die eine benutzerfreundliche Plattform für die Entdeckung und Buchung von Ferienhäusern bietet. Sie verfügt über eine intuitive Suchoberfläche und ein sicheres Buchungssystem.",
     "techStack": ["React", "Express", "MongoDB"],
-    "readMoreLink": "",
+    "readMoreLink": "/blog/holiday-hideouts",
     "codeLink": "",
     "previewLink": "",
     "githubLinks": [
@@ -32,13 +32,13 @@
       }
     ]
   },
-  "collaboration002": {
+  "tic-tac-toe": {
     "image": "/images/project-collaboration-02.png",
     "title": "Tic Tac Toe",
     "status": "",
     "shortDescription": "Eine einfache Umsetzung von Tic Tac Toe. Zwei Spieler wechseln sich ab, um Felder in einem 3x3-Raster zu markieren, mit dem Ziel, drei Markierungen in einer Reihe horizontal, vertikal oder diagonal zu platzieren. Der Spielstatus wird dynamisch aktualisiert.",
     "techStack": ["Javascript", "HTML", "CSS"],
-    "readMoreLink": "/blog/collaboration002",
+    "readMoreLink": "/blog/tic-tac-toe",
     "codeLink": "https://github.com/miles-advani/Tic-Tac-Toe-Game",
     "previewLink": "",
     "githubLinks": [

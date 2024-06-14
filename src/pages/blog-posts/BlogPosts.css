@@ -73,3 +73,17 @@
   color: #ed6d52;
   text-shadow: none;
 }
+
+/* tablet 992px===================== */
+@media (max-width: 992px) {
+  .blog-header {
+    width: 75%;
+  }
+}
+
+/* mobile 510px===================== */
+@media (max-width: 510px) {
+  .blog-header {
+    width: 100%;
+  }
+}

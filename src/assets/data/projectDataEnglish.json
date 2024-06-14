@@ -1,11 +1,11 @@
 {
-  "project-001": {
+  "form-builder": {
     "image": "/images/in-production.png",
     "title": "Form Builder",
     "status": "In Progress",
     "shortDescription": "Form Builder is an intuitive tool that allows you to create custom forms with ease. Simply select your desired form elements, arrange them in your preferred order, and generate the corresponding code with a single click.",
     "techStack": ["React", "Javascript"],
-    "readMoreLink": "",
+    "readMoreLink": "/blog/form-builder",
     "codeLink": "https://github.com/miles-advani/Form-Builder",
     "previewLink": "",
     "blogPosts": [
@@ -28,13 +28,13 @@
     ]
   },
 
-  "project002": {
+  "to-do-app": {
     "image": "/images/in-production.png",
     "title": "To Do App",
     "status": "Coming Soon",
     "shortDescription": "To Do App is a simple yet powerful task management tool that helps you stay organized. Create tasks, set deadlines, and track your progress with ease.",
     "techStack": ["React", "Javascript"],
-    "readMoreLink": "",
+    "readMoreLink": "/blog/to-do-app",
     "codeLink": "",
     "previewLink": "",
     "blogPosts": [
@@ -57,13 +57,13 @@
     ]
   },
 
-  "project003": {
+  "terminal-toolbox": {
     "image": "/images/project-03.png",
     "title": "Terminal Toolbox",
     "status": "",
     "shortDescription": "A collection of utilities designed for terminal enthusiasts. It integrates functionalities like a to-do list, weather forecast, calculator, clock, and more, all accessible directly from your terminal.",
     "techStack": ["Javascript"],
-    "readMoreLink": "/blog/project003",
+    "readMoreLink": "/blog/terminal-toolbox",
     "codeLink": "https://github.com/miles-advani/Terminal-Toolbox",
     "previewLink": "",
     "blogPosts": [

@@ -111,7 +111,7 @@ npm run dev
 - Uses the FontAwesome key through the .env file.
 - [.env-example](https://github.com/miles-advani/Portfolio/blob/main/.env-example)
 
-### [FavIcon](
+### [FavIcon SVG](https://github.com/miles-advani/Portfolio/blob/main/public/favicon.svg)
 
 ### Pages / Components Structure:
 
@@ -131,6 +131,7 @@ npm run dev
     - [ProfileImage](https://github.com/miles-advani/Portfolio/blob/main/src/assets/images/profile-picture.png)
   - [AboutMeSlider](https://github.com/MilesAdvani/Portfolio/tree/main/src/components/about-me-slider)
   - [TechStackSlider](https://github.com/MilesAdvani/Portfolio/tree/main/src/components/tech-stack-slider)
+    - [TechStackIconSVGs](https://github.com/miles-advani/Portfolio/tree/main/public/icons)
 - [Projects](https://github.com/MilesAdvani/Portfolio/tree/main/src/components/projects)
 
   - [ProjectCard](https://github.com/MilesAdvani/Portfolio/tree/main/src/components/project-card)
@@ -252,6 +253,14 @@ JSON files: `ProjectDataEnglish` / `ProjectDataGerman` + `ProjectCollaborationsD
 - The **ID** is used to fetch data from **LanguageContext** by matching it with an **Object Key**.
 
 - Uses **useEffect** to execute `window.scrollTo(0, 0);` which scrolls the window to the top.
+
+## Media Queries
+
+- tablet 1366px
+- tablet 1024px
+- mobile 768px
+- mobile 510px
+- mobile 320px
 
 ## To Do
 
