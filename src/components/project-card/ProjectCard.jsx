@@ -27,12 +27,12 @@ export default function ProjectCard({
           <h3 className="project-header">{title}</h3>
           {status && <span className="project-status">{status}</span>}{" "}
           <p className="project-description">{shortDescription}</p>
-          {/* {readMoreLink.trim() !== "" && (
+          {readMoreLink.trim() !== "" && (
             <Link to={readMoreLink} className="read-more">
               Read more ...
             </Link>
-          )} */}
-          {readMoreLink.trim() !== "" &&
+          )}
+          {/* {readMoreLink.trim() !== "" &&
             (/^http/.test(readMoreLink) ? (
               <a
                 href={readMoreLink}
@@ -46,8 +46,7 @@ export default function ProjectCard({
               <Link to={readMoreLink} className="read-more">
                 Read more ...
               </Link>
-            ))}
-            {/*  ---------*/}
+            ))} */}
           <ul className="skills">
             <li>Tech Stack:</li>
             {techStack.map((tech, index) => (
