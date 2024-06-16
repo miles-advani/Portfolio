@@ -47,6 +47,7 @@ export default function ProjectCard({
                 Read more ...
               </Link>
             ))}
+            {/*  ---------*/}
           <ul className="skills">
             <li>Tech Stack:</li>
             {techStack.map((tech, index) => (
