@@ -1,38 +1,4 @@
-{
-  "holiday-hideouts": {
-    "image": "/images/in-production.png",
-    "title": "Holiday Hideouts",
-    "status": "Coming Soon",
-    "shortDescription": "Eine umfassende Full-Stack-Webanwendung, die eine benutzerfreundliche Plattform für die Entdeckung und Buchung von Ferienhäusern bietet. Sie verfügt über eine intuitive Suchoberfläche und ein sicheres Buchungssystem.",
-    "techStack": ["React", "Express", "MongoDB"],
-    "readMoreLink": "/blog/holiday-hideouts",
-    "codeLink": "",
-    "previewLink": "",
-    "githubLinks": [
-      "https://github.com/MilesAdvani",
-      "https://github.com/MilesAdvani"
-    ],
-    "collaborators": ["Miles Advani", "Miles Advani"],
-    "blogPosts": [
-      {
-        "header": "Beschreibung",
-        "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi."
-      },
-      {
-        "header": "Ziele",
-        "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi."
-      },
-      {
-        "header": "Probleme und Lösungen",
-        "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi."
-      },
-      {
-        "header": "Zukünftige Pläne",
-        "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi."
-      }
-    ]
-  },
-  "tic-tac-toe": {
+{"tic-tac-toe": {
     "image": "/images/project-collaboration-02.png",
     "title": "Tic Tac Toe",
     "status": "",
@@ -48,20 +14,84 @@
     "collaborators": ["Miles Advani", "Miles Advani"],
     "blogPosts": [
       {
-        "header": "Beschreibung",
-        "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi."
-      },
-      {
-        "header": "Ziele",
-        "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi."
-      },
-      {
-        "header": "",
-        "content": ""
+        "header": "Über dieses Projekt",
+        "content": [
+          "Dieses Projekt entstand aus einer lustigen, abendlichen Zusammenarbeit zwischen zwei Freunden. Mithilfe von VSCode Live Share arbeiteten wir in Echtzeit zusammen, wobei jeder von uns zum Code und zur Problemlösung beitrug.",
+          "Das Spiel ist eine einfache, interaktive Version von Tic Tac Toe. Die Spieler ziehen abwechselnd Markierungen in einem 3x3-Raster, mit dem Ziel, drei ihrer Markierungen in einer Reihe zu platzieren - entweder horizontal, vertikal oder diagonal. Der Status des Spiels aktualisiert sich dynamisch, während das Spiel fortschreitet, und kündigt entweder den Gewinner oder ein Unentschieden an, wenn das Spiel endet."
+        ]
       },
       {
         "header": "",
-        "content": ""
+        "content": [
+          "first paragraph...",
+          "Second paragraph...",
+          "Third paragraph..."
+        ]
+      },
+      {
+        "header": "",
+        "content": [
+          "first paragraph...",
+          "Second paragraph...",
+          "Third paragraph..."
+        ]
+      },
+      {
+        "header": "",
+        "content": [
+          "first paragraph...",
+          "Second paragraph...",
+          "Third paragraph..."
+        ]
+      }
+    ]
+  },
+  "holiday-hideouts": {
+    "image": "/images/in-production.png",
+    "title": "Holiday Hideouts",
+    "status": "Coming Soon",
+    "shortDescription": "Eine umfassende Full-Stack-Webanwendung, die eine benutzerfreundliche Plattform für die Entdeckung und Buchung von Ferienhäusern bietet. Sie verfügt über eine intuitive Suchoberfläche und ein sicheres Buchungssystem.",
+    "techStack": ["React", "Express", "MongoDB"],
+    "readMoreLink": "",
+    "codeLink": "",
+    "previewLink": "",
+    "githubLinks": [
+      "https://github.com/MilesAdvani",
+      "https://github.com/MilesAdvani"
+    ],
+    "collaborators": ["Miles Advani", "Miles Advani"],
+    "blogPosts": [
+      {
+        "header": "Über dieses Projekt",
+        "content": [
+          "first paragraph...",
+          "Second paragraph...",
+          "Third paragraph..."
+        ]
+      },
+      {
+        "header": "Projekt Inspiration und Ziele",
+        "content": [
+          "first paragraph...",
+          "Second paragraph...",
+          "Third paragraph..."
+        ]
+      },
+      {
+        "header": "Entwicklungsherausforderungen meistern",
+        "content": [
+          "first paragraph...",
+          "Second paragraph...",
+          "Third paragraph..."
+        ]
+      },
+      {
+        "header": "Entwicklung für die Zukunft",
+        "content": [
+          "first paragraph...",
+          "Second paragraph...",
+          "Third paragraph..."
+        ]
       }
     ]
   }

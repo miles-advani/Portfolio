@@ -1,29 +1,93 @@
 {
+  "terminal-toolbox": {
+    "image": "/images/project-03.png",
+    "title": "Terminal Toolbox",
+    "status": "",
+    "shortDescription": "A collection of utilities designed for terminal enthusiasts. It integrates functionalities like a to-do list, weather forecast, calculator, clock, and more, all accessible directly from your terminal.",
+    "techStack": ["Javascript", "Node.js", "APIs"],
+    "readMoreLink": "/blog/terminal-toolbox",
+    "codeLink": "https://github.com/miles-advani/Terminal-Toolbox",
+    "previewLink": "",
+    "blogPosts": [
+      {
+        "header": "About this project",
+        "content": [
+          "In the world of software development, the terminal is an indispensable tool. But what if we could make it even more useful? That's where Terminal Toolbox comes in. This command-line application is designed to provide a variety of handy tools and information, all accessible directly from your terminal.",
+          "Check Time and Date: Access your system clock directly from your terminal.",
+          "Day Counter: Set a future date and Terminal Toolbox will count down the days.",
+          "Get Weather Forecasts: Get current weather information and forecasts.",
+          "Find Your Location: Terminal Toolbox can display your current location.",
+          "Perform Calculations: Includes a simple calculator for basic arithmetic.",
+          "Manage Your To-Do List: Currently, you can add and view entries in your to-do list directly from your command line. If you store the text file for the to-do list in your personal cloud, you can even synchronize the file with your favorite to-do app (if the app supports this feature).",
+          "Enjoy a Random Joke: Lighten up your day with a random joke from our Joke Generator."
+        ]
+      },
+      {
+        "header": "Project Inspiration and Objectives",
+        "content": [
+          "The primary goal of this project was to practice JavaScript and explore Node APIs. However, the inspiration for Terminal Toolbox came from a unique personal need.",
+          "Working on a Mac with a small screen size, I prefer to keep my workspace uncluttered by hiding the upper and bottom menu bars. This means the system clock isn't always visible. As a developer, I spend a significant amount of time in the terminal, so I thought, why not bring the clock to the terminal?",
+          "This led to the creation of Terminal Toolbox, starting with a simple feature to display the current time. The project has since grown, incorporating a variety of tools to enhance productivity and add a touch of fun to the terminal experience."
+        ]
+      },
+      {
+        "header": "Overcoming Development Challenges",
+        "content": [
+          "One of the challenges I faced during the development of Terminal Toolbox was a circular dependency error. This occurred when I tried to implement a 'Go Back' option in the calculator module that would return the user to the main app manager. The problem was that the calculator module was dependent on the app manager module, and vice versa, creating a circular dependency. This is a common issue in Node.js when two or more modules depend on each other, either directly or indirectly.",
+          "To solve this problem, I used a callback function. Instead of directly importing the app manager module into the calculator module, I passed the `startApp` function (which starts the app manager) as a callback function to the `startCalculator` function. This way, when the user chooses to go back, the `startApp` function is invoked, taking the user back to the main app manager. This solution effectively broke the circular dependency, allowing the modules to function as expected."
+        ]
+      },
+      {
+        "header": "Evolving for the Future",
+        "content": [
+          "One of the key improvements planned for the future of Terminal Toolbox is to refactor the codebase from CommonJS to ES6 syntax.",
+          "Currently, the project uses `require()` for importing modules, which is the CommonJS way. However, ES6 introduced a new syntax for importing and exporting modules using `import` and `export` keywords. The ES6 syntax is more readable and offers more flexibility. It allows for importing and exporting individual functions, objects, or values, which can help in optimizing the code.",
+          "This refactoring will involve updating all the `require()` calls to `import` statements and changing `module.exports` to `export`. While Node.js has traditionally used CommonJS, it has been increasingly supporting ES6 modules, making this a viable and future-proof improvement for the project."
+        ]
+      }
+    ]
+  },
   "form-builder": {
     "image": "/images/in-production.png",
     "title": "Form Builder",
     "status": "In Progress",
     "shortDescription": "Form Builder is an intuitive tool that allows you to create custom forms with ease. Simply select your desired form elements, arrange them in your preferred order, and generate the corresponding code with a single click.",
     "techStack": ["React", "Javascript"],
-    "readMoreLink": "/blog/form-builder",
+    "readMoreLink": "",
     "codeLink": "https://github.com/miles-advani/Form-Builder",
     "previewLink": "",
     "blogPosts": [
       {
-        "header": "Description",
-        "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi."
+        "header": "About this project",
+        "content": [
+          "first paragraph...",
+          "Second paragraph...",
+          "Third paragraph..."
+        ]
       },
       {
-        "header": "Goals",
-        "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi."
+        "header": "Project Inspiration and Objectives",
+        "content": [
+          "first paragraph...",
+          "Second paragraph...",
+          "Third paragraph..."
+        ]
       },
       {
-        "header": "Problems Faced",
-        "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi."
+        "header": "Overcoming Development Challenges",
+        "content": [
+          "first paragraph...",
+          "Second paragraph...",
+          "Third paragraph..."
+        ]
       },
       {
-        "header": "Future Plans",
-        "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi."
+        "header": "Evolving for the Future",
+        "content": [
+          "first paragraph...",
+          "Second paragraph...",
+          "Third paragraph..."
+        ]
       }
     ]
   },
@@ -34,54 +98,41 @@
     "status": "Coming Soon",
     "shortDescription": "To Do App is a simple yet powerful task management tool that helps you stay organized. Create tasks, set deadlines, and track your progress with ease.",
     "techStack": ["React", "Javascript"],
-    "readMoreLink": "/blog/to-do-app",
+    "readMoreLink": "",
     "codeLink": "",
     "previewLink": "",
     "blogPosts": [
       {
-        "header": "Description",
-        "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi."
+        "header": "About this project",
+        "content": [
+          "first paragraph...",
+          "Second paragraph...",
+          "Third paragraph..."
+        ]
       },
       {
-        "header": "Goals",
-        "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi."
+        "header": "Project Inspiration and Objectives",
+        "content": [
+          "first paragraph...",
+          "Second paragraph...",
+          "Third paragraph..."
+        ]
       },
       {
-        "header": "Problems Faced",
-        "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi."
+        "header": "Overcoming Development Challenges",
+        "content": [
+          "first paragraph...",
+          "Second paragraph...",
+          "Third paragraph..."
+        ]
       },
       {
-        "header": "Future Plans",
-        "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi."
-      }
-    ]
-  },
-
-  "terminal-toolbox": {
-    "image": "/images/project-03.png",
-    "title": "Terminal Toolbox",
-    "status": "",
-    "shortDescription": "A collection of utilities designed for terminal enthusiasts. It integrates functionalities like a to-do list, weather forecast, calculator, clock, and more, all accessible directly from your terminal.",
-    "techStack": ["Javascript"],
-    "readMoreLink": "/blog/terminal-toolbox",
-    "codeLink": "https://github.com/miles-advani/Terminal-Toolbox",
-    "previewLink": "",
-    "blogPosts": [
-      {
-        "header": "Description",
-        "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi."
-      },
-      {
-        "header": "Goals",
-        "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi."
-      },
-      {
-        "header": "Problems Faced",
-        "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi."
-      },
-      {
-        "header": "Future Plans",
-        "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi."
+        "header": "Evolving for the Future",
+        "content": [
+          "first paragraph...",
+          "Second paragraph...",
+          "Third paragraph..."
+        ]
       }
     ]
   }

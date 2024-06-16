@@ -1,34 +1,4 @@
 {
-  "holiday-hideouts": {
-    "image": "/images/in-production.png",
-    "title": "Holiday Hideouts",
-    "status": "Coming Soon",
-    "shortDescription": "A comprehensive full-stack web application that provides a seamless platform for users to discover and book holiday homes. It offers an intuitive search interface and a secure booking system.",
-    "techStack": ["React", "Express", "MongoDB"],
-    "readMoreLink": "/blog/holiday-hideouts",
-    "codeLink": "",
-    "previewLink": "",
-    "githubLinks": ["https://github.com/MilesAdvani"],
-    "collaborators": ["Miles Advani", "Miles Advani"],
-    "blogPosts": [
-      {
-        "header": "Description",
-        "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi."
-      },
-      {
-        "header": "Goals",
-        "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi."
-      },
-      {
-        "header": "Problems Faced",
-        "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi."
-      },
-      {
-        "header": "Future Plans",
-        "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi."
-      }
-    ]
-  },
   "tic-tac-toe": {
     "image": "/images/project-collaboration-02.png",
     "title": "Tic Tac Toe",
@@ -39,25 +9,87 @@
     "codeLink": "https://github.com/miles-advani/Tic-Tac-Toe-Game",
     "previewLink": "",
     "githubLinks": [
-      "https://github.com/MilesAdvani"
+      "https://github.com/lmllrjr",
+      "https://github.com/miles-advani"
     ],
-    "collaborators": ["Miles Advani"],
+    "collaborators": ["Lukas Möller", "Miles Advani"],
     "blogPosts": [
       {
-        "header": "Description",
-        "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi."
-      },
-      {
-        "header": "Goals",
-        "content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi.Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptas hic nisi mollitia pariatur officiis natus in ipsam, recusandae modi."
-      },
-      {
-        "header": "",
-        "content": ""
+        "header": "About this project",
+        "content": [
+          "This project was a fun, one-evening collaboration between two friends. We used VSCode Live Share to work together in real-time, each contributing to the code and problem-solving process.",
+          "The game is a simple, interactive version of Tic Tac Toe. Players take turns marking spaces in a 3x3 grid, with the goal of placing three of their marks in a row - either horizontally, vertically, or diagonally. The game's status updates dynamically as the game progresses, announcing either the winner or a draw when the game ends."
+        ]
       },
       {
         "header": "",
-        "content": ""
+        "content": [
+          "first paragraph...",
+          "Second paragraph...",
+          "Third paragraph..."
+        ]
+      },
+      {
+        "header": "",
+        "content": [
+          "first paragraph...",
+          "Second paragraph...",
+          "Third paragraph..."
+        ]
+      },
+      {
+        "header": "",
+        "content": [
+          "first paragraph...",
+          "Second paragraph...",
+          "Third paragraph..."
+        ]
+      }
+    ]
+  },
+  "holiday-hideouts": {
+    "image": "/images/in-production.png",
+    "title": "Holiday Hideouts",
+    "status": "Coming Soon",
+    "shortDescription": "A comprehensive full-stack web application that provides a seamless platform for users to discover and book holiday homes. It offers an intuitive search interface and a secure booking system.",
+    "techStack": ["React", "Express", "MongoDB"],
+    "readMoreLink": "",
+    "codeLink": "",
+    "previewLink": "",
+    "githubLinks": ["https://github.com/MilesAdvani"],
+    "collaborators": ["Miles Advani", "Miles Advani"],
+    "blogPosts": [
+      {
+        "header": "About this project",
+        "content": [
+          "first paragraph...",
+          "Second paragraph...",
+          "Third paragraph..."
+        ]
+      },
+      {
+        "header": "Project Inspiration and Objectives",
+        "content": [
+          "In the world of software development, the terminal is an indispensable tool. But what if we could make it even more useful? That's where Terminal Toolbox comes in. This command-line application is designed to provide a variety of handy tools and information, all accessible directly from your terminal.",
+          "Second paragraph...",
+          "Third paragraph..."
+        ]
+      },
+      {
+        "header": "Overcoming Development Challenges",
+        "content": [
+          "first paragraph...",
+          "Second paragraph...",
+          "Third paragraph..."
+        ]
+      },
+      {
+        "header": "Evolving for the Future",
+        "content": [
+          "first paragraph...",
+          "Second paragraph...",
+          "Third paragraph..."
+        ]
       }
     ]
   }
