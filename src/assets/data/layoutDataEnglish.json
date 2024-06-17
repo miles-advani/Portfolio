@@ -20,7 +20,8 @@
   "backToTop": "Back to top",
   
   "projectHeaders": {
-    "myProjects": "My Projects",
-    "collaborations": "Collaborations"
+    "allProjects": "Projects",
+    "myProjects": "",
+    "collaborations": ""
   }
 }
