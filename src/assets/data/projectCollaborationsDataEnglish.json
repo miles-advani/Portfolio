@@ -8,11 +8,8 @@
     "readMoreLink": "/blog/tic-tac-toe",
     "codeLink": "https://github.com/miles-advani/Tic-Tac-Toe-Game",
     "previewLink": "",
-    "githubLinks": [
-      "https://github.com/lmllrjr",
-      "https://github.com/miles-advani"
-    ],
-    "collaborators": ["Lukas Möller", "Miles Advani"],
+    "githubLinks": [""],
+    "collaborators": [""],
     "blogPosts": [
       {
         "header": "About this project",

@@ -1,4 +1,5 @@
-{"tic-tac-toe": {
+{
+  "tic-tac-toe": {
     "image": "/images/project-collaboration-02.png",
     "title": "Tic Tac Toe",
     "status": "",
@@ -7,11 +8,8 @@
     "readMoreLink": "/blog/tic-tac-toe",
     "codeLink": "https://github.com/miles-advani/Tic-Tac-Toe-Game",
     "previewLink": "",
-    "githubLinks": [
-      "https://github.com/MilesAdvani",
-      "https://github.com/MilesAdvani"
-    ],
-    "collaborators": ["Miles Advani", "Miles Advani"],
+    "githubLinks": [""],
+    "collaborators": [""],
     "blogPosts": [
       {
         "header": "Über dieses Projekt",

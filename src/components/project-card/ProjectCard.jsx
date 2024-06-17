@@ -32,21 +32,6 @@ export default function ProjectCard({
               Read more ...
             </Link>
           )}
-          {/* {readMoreLink.trim() !== "" &&
-            (/^http/.test(readMoreLink) ? (
-              <a
-                href={readMoreLink}
-                className="read-more"
-                target="_blank"
-                rel="noopener noreferrer"
-              >
-                Read more ...
-              </a>
-            ) : (
-              <Link to={readMoreLink} className="read-more">
-                Read more ...
-              </Link>
-            ))} */}
           <ul className="skills">
             <li>Tech Stack:</li>
             {techStack.map((tech, index) => (

@@ -277,6 +277,7 @@ JSON files: `ProjectDataEnglish` / `ProjectDataGerman` + `ProjectCollaborationsD
 - Add a link about this page in footer
 - Add tab icon
 - Golden ratio / goldener Schnitt
+- image loop in blog post
 
 ## License
 
