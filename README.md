@@ -278,6 +278,10 @@ JSON files: `ProjectDataEnglish` / `ProjectDataGerman` + `ProjectCollaborationsD
 - Add tab icon
 - Golden ratio / goldener Schnitt
 - image loop in blog post
+- make the drop down disappear after action
+- add index to blog post
+- add blur effect to header when unfold
+- make tech stack slider scrollable
 
 ## License
 
