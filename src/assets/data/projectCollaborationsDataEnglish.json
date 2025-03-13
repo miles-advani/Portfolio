@@ -44,15 +44,15 @@
       }
     ]
   },
-  "holiday-hideouts": {
-    "image": "/images/in-production.png",
-    "title": "Holiday Hideouts",
-    "status": "Coming Soon",
-    "shortDescription": "A comprehensive full-stack web application that provides a seamless platform for users to discover and book holiday homes. It offers an intuitive search interface and a secure booking system.",
-    "techStack": ["React", "Express", "MongoDB"],
+  "your-mentor-mate": {
+    "image": "/images/YourMentorMate.png",
+    "title": "Your Mentor Mate",
+    "status": "",
+    "shortDescription": "Concept and implementation of a platform that enables users to learn skills through targeted mentoring.",
+    "techStack": ["React", "Express", "MongoDB", "Typescript"],
     "readMoreLink": "",
     "codeLink": "",
-    "previewLink": "",
+    "previewLink": "https://mentor-mate-frontend.onrender.com/",
     "githubLinks": ["https://github.com/MilesAdvani"],
     "collaborators": ["Miles Advani", "Miles Advani"],
     "blogPosts": [
