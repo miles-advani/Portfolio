@@ -48,7 +48,7 @@
     ]
   },
   "form-builder": {
-    "image": "/images/in-production.png",
+    "image": "/images/FormBuilder.png",
     "title": "Form Builder",
     "status": "In Progress",
     "shortDescription": "Form Builder ist ein intuitives Tool, mit dem Sie benutzerdefinierte Formulare mühelos erstellen können. Wählen Sie einfach Ihre gewünschten Formularelemente aus, ordnen Sie sie in Ihrer bevorzugten Reihenfolge an und generieren Sie den entsprechenden Code mit nur einem Klick.",

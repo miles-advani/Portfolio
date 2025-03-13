@@ -48,7 +48,7 @@
     ]
   },
   "form-builder": {
-    "image": "/images/in-production.png",
+    "image": "/images/FormBuilder.png",
     "title": "Form Builder",
     "status": "In Progress",
     "shortDescription": "Form Builder is an intuitive tool that allows you to create custom forms with ease. Simply select your desired form elements, arrange them in your preferred order, and generate the corresponding code with a single click.",
